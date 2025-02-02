@@ -1,4 +1,4 @@
-![my portfolio image]IMG_4016.jpg
+![my portfolio image](IMG_4016.jpg)
 
 # Data Analyst
 
