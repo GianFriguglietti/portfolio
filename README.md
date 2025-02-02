@@ -1,4 +1,4 @@
-![my portfolio image](IMG_4016.jpg)
+![my portfolio image](IMG_4016.jpg){: .profile-pic}
 
 # Data Analyst
 
