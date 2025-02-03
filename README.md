@@ -4,4 +4,4 @@
 
 ## Education 
 Data Analytics | London School of Economics
--Distinction
+- Distinction
