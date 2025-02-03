@@ -3,5 +3,5 @@
 #### Technical Skills: Python, SQL, Tableau, R, Excel, Powerpoint
 
 ## Education 
-Data Analytics | London School of Economics
-- Distinction
+Data Analytics | London School of Economics (Distinction)
+
