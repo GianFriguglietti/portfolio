@@ -13,4 +13,5 @@ analysis and visualisation, which concluded with the delivery of actionable insi
 
 ## Projects
 
-1. [Supermarket Project](https://github.com/GianFriguglietti/Supermarket_Project)
+1. [Supermarket Project](https://github.com/GianFriguglietti/Supermarket_Project) - SQL | Tableau
+2. [NHS_Appointments_Project](https://github.com/GianFriguglietti/NHS_Appointments_Project)
