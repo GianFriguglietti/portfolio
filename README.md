@@ -13,7 +13,7 @@ analysis and visualisation, which concluded with the delivery of actionable insi
 
 ## Projects
 
-1. [Supermarket Project](https://github.com/GianFriguglietti/Supermarket_Project) - SQL | Tableau
-2. [NHS Appointments Project](https://github.com/GianFriguglietti/NHS_Appointments_Project) - Python
-3. [Games Company Project](https://github.com/GianFriguglietti/Games_Company_Project) - Python | R
-4. [Bank Of England Project](https://github.com/GianFriguglietti/BankOfEngland_Project) - Python
+1. [Supermarket Project](https://github.com/GianFriguglietti/Supermarket_Project) <br> SQL | Tableau
+2. [NHS Appointments Project](https://github.com/GianFriguglietti/NHS_Appointments_Project) <br> Python
+3. [Games Company Project](https://github.com/GianFriguglietti/Games_Company_Project) <br> Python | R
+4. [Bank Of England Project](https://github.com/GianFriguglietti/BankOfEngland_Project) <br> Python
