@@ -12,7 +12,7 @@
 analysis and visualisation, which concluded with the delivery of actionable insights through presentations and reports.
 
 **Junior Management Accountant | Economy of Brighton/BCreative**
-- Trained my accuracy, time management and team working skills through creating and sharing reports for sales figures, preprocessing incoming sales invoices, and supporting finance officer in improving internal operations.
+- Trained my accuracy, time management and team working skills through creating and sharing reports for sales figures, preprocessing incoming sales invoices, and supporting the financial officer in improving internal operations.
 
 ## Projects
 
